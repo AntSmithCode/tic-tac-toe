@@ -1,0 +1,15 @@
+@font-face {
+  font-family: EightBitDragon;
+  src: url(/fonts/EightBitDragon-anqx.ttf); /* Import Downloaded Fonts */
+}
+
+@font-face {
+  font-family: Pixelboy;
+  src: url(/fonts/Pixeboy-z8XGD.ttf); /* Import Downloaded Fonts */
+}
+
+* {
+  /* Set All Non Selectors To 0 Padding & Margin */
+  padding: 0;
+  margin: 0;
+}
